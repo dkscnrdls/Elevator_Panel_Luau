@@ -1,4 +1,5 @@
 # Elevator Panel with Luau
+![image](https://github.com/user-attachments/assets/0c82a35c-0113-47ba-9205-6f5f0e2dc3d2)
 
 ## Korean
 ### 로블록스에서의 엘리베이터.
